@@ -22,18 +22,18 @@ const About = () => {
         passion for programming. <span>My favorite part of programming</span> is
         the problem-solving aspect. I <span>love</span> the feeling of finally
         figuring out a solution to a problem. My core stack is{" "}
-        <span className="font-medium" className="italic">
+        <span className="font-medium italic">
           React, Next.js, Node.js, and React Native
         </span>
-        . I am also familiar with TypeScript and Redux toolkit. I am always
+        .I am also familiar with TypeScript and Redux toolkit. I am always
         looking to learn new technologies. I am currently looking for a{" "}
         <span className="font-medium">full-time position</span> as a software
         developer.
       </p>
 
       <p>
-        <span className="italic">When I'm not coding</span>, I enjoy playing
-        video games, watching movies .I also enjoy{" "}
+        <span className="italic">When I&apos;m not coding</span>, I enjoy
+        playing video games, watching movies .I also enjoy{" "}
         <span className="font-medium">learning new things</span>.
       </p>
     </motion.section>

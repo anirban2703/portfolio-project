@@ -1,3 +1,3 @@
-import { links } from "./data.ts";
+import { links } from "./data";
 
 export type SectionName = (typeof links)[number]["name"];
