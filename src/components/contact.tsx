@@ -25,7 +25,7 @@ function Contact() {
       }}
     >
       <SectionHeading>Contact me</SectionHeading>
-      <p className="text-gray-700 -mt-6 dark:text-white/80">
+      <p className="text-gray-700 -mt-6">
         Please contact me directly at{" "}
         <a className="underline" href="mailto:anirbanghoshani2703@gmail.com">
           {"anirbanghoshani2703@gmail.com"}

@@ -65,7 +65,7 @@ const Header = () => {
                       stiffness: 380,
                       damping: 30,
                     }}
-                    className="bg-gray-200 rounded-full absolute inset-0 -z-10 dark:bg-gray-800"
+                    className="bg-gray-200 rounded-full absolute inset-0 -z-10"
                   ></motion.span>
                 )}
               </Link>
